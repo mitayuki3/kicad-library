@@ -1,0 +1,17 @@
+(module Jack_3.5mm_MJ-8435 (layer F.Cu) (tedit 5EEF10D1)
+  (fp_text reference J*** (at 0 -1.55) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_text value Jack_3.5mm_MJ-8435 (at 0 8.61) (layer F.Fab) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_line (start -3 6) (end -3 -8) (layer F.SilkS) (width 0.12))
+  (fp_line (start 3 6) (end 3 -8) (layer F.SilkS) (width 0.12))
+  (fp_line (start -3 -5.5) (end 3 -5.5) (layer F.SilkS) (width 0.15))
+  (fp_line (start 3 6) (end -3 6) (layer F.SilkS) (width 0.15))
+  (fp_line (start -3 -8) (end 3 -8) (layer F.SilkS) (width 0.15))
+  (pad T thru_hole oval (at -2.75 0) (size 2.4 3) (drill 1.5) (layers *.Cu *.Mask))
+  (pad T thru_hole oval (at 2.75 0) (size 2.4 3) (drill 1.5) (layers *.Cu *.Mask))
+  (pad S thru_hole oval (at -2.2 5.6) (size 2 3) (drill 1.2) (layers *.Cu *.Mask))
+  (pad R thru_hole oval (at 2.2 5.6) (size 2 3) (drill 1.2) (layers *.Cu *.Mask))
+)
