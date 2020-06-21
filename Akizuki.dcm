@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TJ34063AGD
+D 1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, SO-8
+K smps buck boost inverting
+F http://akizukidenshi.com/download/ds/htc/tj34063a.pdf
+$ENDCMP
+#
+#End Doc Library
